@@ -2,6 +2,12 @@
 
 This project documents how I hosted a static website using **Amazon S3** as part of the [NextWork](https://nextwork.org) learning program.
 
+## 🔁 Data Flow Diagram
+
+Below is the high-level architecture of this project:
+
+![Data Flow](./data-flow-hosting-s3.png)
+
 ## 🛠️ What I Did
 
 - Created a globally unique **S3 bucket** in `ap-south-1` region.

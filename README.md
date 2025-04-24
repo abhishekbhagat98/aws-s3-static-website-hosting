@@ -19,7 +19,7 @@ This project documents how I hosted a static website using **Amazon S3** as part
 
 The full walkthrough with screenshots and notes is available in the PDF:
 
-[📄 Project 1 - Hosted a Website via Amazon S3.pdf](./Project%201%20-%20Hosted%20a%20Website%20via%20Amazon%20S3.pdf)
+[📄 Hosted a Website via Amazon S3.pdf](./Hosted%20a%20Website%20via%20Amazon%20S3.pdf)
 
 ---
 
